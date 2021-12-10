@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Thnks_CJ [Modified by Felixmax_#6450 for SOL and Cloaks plus(cloaksplus.com)]",
+  "author": "Felixmax_",
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "0.1.0-canary.0",
