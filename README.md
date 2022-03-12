@@ -9,3 +9,6 @@ issues or questions:
 Discord: Felixmax_#6450 
 Discord: Thnks_CJ#8090 
 just add me as a friend and i will accept it as soon as posible 
+Click on the Banners to Directly have us pop up:
+[![dipshitcock](https://discord.c99.nl/widget/theme-3/460470667696013312.png)](https://discord.com/users/460470667696013312)
+[![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
