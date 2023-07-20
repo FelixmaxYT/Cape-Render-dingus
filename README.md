@@ -1,3 +1,14 @@
+# Tutorial
+
+1. download this repo
+2. open a terminal and type ``npm i``
+3. drag in your cape and rename it to ``cape.png``
+4. run the run.bat file
+5. enjoy
+
+
+
+
 # Cape-Render-dingus
 /!\ YOU ARE FREE TO USE THIS JUST REMOVE THE CLOAKS PLUS BRANDING /!\
 
