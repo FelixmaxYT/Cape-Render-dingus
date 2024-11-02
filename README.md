@@ -1,3 +1,5 @@
+# This Repo is very out of date.
+
 # Tutorial
 
 1. download this repo
@@ -17,11 +19,11 @@ also u can give credit if u want but you don't need to UwU
 Original code by Thnks_CJ#8090 btw lmfao 
 
 issues or questions: 
-Discord: Felixmax_#6450 
+Discord: notfelixmax_
 Discord: Thnks_CJ#8090 
 just add me as a friend and i will accept it as soon as posible 
 Click on the Banners to Directly have us pop up:
 
-[![dipshitcock](https://discord.c99.nl/widget/theme-3/824728027010170962.png)](https://discord.com/users/824728027010170962)
+[![dipshitcock](https://discord.c99.nl/widget/theme-3/1025862745796653187.png)](https://discord.com/users/1025862745796653187)
 
 [![dipshitcord](https://discord.c99.nl/widget/theme-3/644210317861191680.png)](https://discord.com/users/644210317861191680)
