@@ -1,4 +1,4 @@
-# This Repo is very out of date.
+# This Repo is now a public archive
 
 # Tutorial
 
@@ -14,14 +14,12 @@
 # Cape-Render-dingus
 /!\ YOU ARE FREE TO USE THIS JUST REMOVE THE CLOAKS PLUS BRANDING /!\
 
-also u can give credit if u want but you don't need to UwU 
-
-Original code by Thnks_CJ#8090 btw lmfao 
+Original code by Thnks_CJ#8090 
 
 issues or questions: 
 Discord: notfelixmax_
 Discord: Thnks_CJ#8090 
-just add me as a friend and i will accept it as soon as posible 
+
 Click on the Banners to Directly have us pop up:
 
 [![dipshitcock](https://discord.c99.nl/widget/theme-3/1025862745796653187.png)](https://discord.com/users/1025862745796653187)
